@@ -1,0 +1,5 @@
+services:
+  cv_web:
+    image: ivanvich1091/cv-fernandez_villca_pereira-imagen:v1
+    ports:
+      - "8585:80"
